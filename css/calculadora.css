@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/12331710/image/52877c139995622cc2c89e212eade9a8");
+    margin: auto;
+    height: auto;
+   }
+h4{
+    text-align: center;
+    color: rgb(245, 246, 247);
+    font-weight: bold;
+}
+label ,h5 ,p{
+    color: aliceblue;
+}
+.card{
+    background-color: rgb(50, 49, 49);
+}
